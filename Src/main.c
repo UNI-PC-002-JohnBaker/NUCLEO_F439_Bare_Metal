@@ -8,7 +8,7 @@
 
 
 
-#define GPIOBEN 		(1U<<1)
+#define GPIOBEN 		(1U<<1)  //enable clock access to Port B (bit mask)
 #define PIN0			(1U<<0)
 #define LED1_PIN		PIN0
 
